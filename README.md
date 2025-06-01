@@ -12,3 +12,4 @@ No rewards. No tokens. Just pure fun and randomness on the blockchain.
 ⚙️ Fully on-chain game logic 
 
 ❌ No gambling, no tokens, no payouts — just a game
+  
