@@ -1,5 +1,5 @@
 ✈️ AirplaneRacers    
-On-chain airplane racing game built with Solidity. 
+On-chain airplane racing game built with Solidity.  
 No rewards. No tokens. Just pure fun and randomness on the blockchain.    
   
 🧩 Features  
