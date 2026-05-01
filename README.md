@@ -7,7 +7,7 @@ No rewards. No tokens. Just pure fun and randomness on the blockchain.
              
 🔄 Race logic based on randomness (0 or 1 stage forward per round)   
      
-🏁 Win by reaching stage 5 first     
+🏁 Win by reaching stage 5 first       
             
 ⚙️ Fully on-chain game logic        
           
