@@ -5,7 +5,7 @@ No rewards. No tokens. Just pure fun and randomness on the blockchain.
 🧩 Features          
 👨‍✈️ Multiplayer (up to 5 players)              
              
-🔄 Race logic based on randomness (0 or 1 stage forward per round)   
+🔄 Race logic based on randomness (0 or 1 stage forward per round)     
      
 🏁 Win by reaching stage 5 first       
             
