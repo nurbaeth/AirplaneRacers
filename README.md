@@ -3,7 +3,7 @@ On-chain airplane racing game built with Solidity.
 No rewards. No tokens. Just pure fun and randomness on the blockchain.            
           
 🧩 Features          
-👨‍✈️ Multiplayer (up to 5 players)              
+👨‍✈️ Multiplayer (up to 5 players)               
              
 🔄 Race logic based on randomness (0 or 1 stage forward per round)     
      
